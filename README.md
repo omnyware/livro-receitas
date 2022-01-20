@@ -1,5 +1,5 @@
-**Livro de Receitas**
+**Livro de Receitas** :man_cook:
 
 
 
-- Strogonoff de Frango
+- Strogonoff de Frango :chicken:
